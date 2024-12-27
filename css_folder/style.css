@@ -1,0 +1,40 @@
+body{
+    background-color: #54595f;
+    width: 50%;
+    margin: auto;
+    color: aliceblue;
+}
+h1{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color:red
+}
+div{
+    border-style: solid;
+    border-radius: 7px;
+    border-color: black;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+table{
+    margin: auto;
+    padding: 5px;
+}
+table td {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+
+
+}
+hr{
+    width: 50% ;
+}
